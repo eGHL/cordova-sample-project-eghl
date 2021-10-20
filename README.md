@@ -1,0 +1,1 @@
+# cordova-sample-project-eghl
